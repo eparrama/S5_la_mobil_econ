@@ -4,3 +4,7 @@ El objetivo es evaluar cómo la movilidad urbana se relaciona con la productivid
 Paso 1: Cargar y explorar
 Paso 2: Explorar, limpiar y preparar los datos
 Paso 3: Extraer año y filtrar
+Paso 4: Analizar y resumir datos de movilidad
+Paso 5: Unir movilidad y economía
+Paso 6: Visualización y análisis de relaciones
+Paso 7: Exportar y documentar resultados
