@@ -8,7 +8,7 @@ Dataframes: tomtom_traffic.csv y oecd_city_economy.csv
 La ciudad con el mayor tiempo promedio de tráfico es ...**mexico-city**  
 **Paso 5:** Unir movilidad y economía  
 **Paso 6:** Visualización y análisis de relaciones  
-**No hay una relación clara entre el PIB per cápita y el congestionamiento vehicular, por ejemplo Montevideo tiene un PIB muy alto con un congestionamiento bajo, Ciudad de México tiene un PIB y congestionamiento altos y Santiago tiene un PIB bajo y alto congestionamiento**
+**No hay una relación clara entre el PIB per cápita y el congestionamiento vehicular, por ejemplo Montevideo tiene un PIB muy alto con un congestionamiento bajo, Ciudad de México tiene un PIB y congestionamiento altos y Santiago tiene un PIB bajo y alto congestionamiento**  
 **Paso 7:** Exportar y documentar resultados  
 1.- Boxplot de retrasos por congestionamiento (JamsDelay) donde observamos que la media es de 629.52 min y existen outliers donde el valor es de más de 2,500 min cuando el rango normal va de los 100 a los 700 min.  
 2.- Histograma con la Distribución de la Economía donde se grafica la frecuencia del PIB per cápita y observamos que la mayor frecuencia se da entre los 6,000 USD y los 14,000 USD con un rango ampliado a 22,000 USD habiendo casos extremos a la baja entre 2,000 USD y 4,000 USD y a la alta entre 24,000 USD y 26,000 USD.  
